@@ -1,0 +1,17 @@
+.arayObj{
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.arayObj .data{
+    background-color: wheat;
+    color: black;
+    padding: 20px 30px;
+    text-align: center;
+    line-height: 1.8;
+    font-size: 20px;
+    border-radius: 10px;
+}

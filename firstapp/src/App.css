@@ -83,7 +83,7 @@
   height: 100px;
 }
 
-.btnBox button{
+button{
   cursor: pointer;
   padding: 10px 20px;
   margin: 20px 80px;
@@ -91,6 +91,8 @@
   font-size: 16px;
   font-weight: bold;
   outline: none;
-  border: none;
+  border: 1px solid Gray;
+  box-shadow: 2px 2px 5px gray;
   border-radius: 6px;
 }
+

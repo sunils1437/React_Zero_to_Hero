@@ -3,3 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+.uniPadding{
+  padding: 0 100px;
+}
+
+body{
+  background-color: #434343;
+}
